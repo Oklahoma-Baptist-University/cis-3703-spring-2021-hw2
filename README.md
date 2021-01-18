@@ -1,1 +1,2 @@
-# cis-3703-spring-2021-hw2
+# CIS 3703 Spring 2021 Homework #1
+See the notebook named CIS-3703-Spring-2021-Homework-2 for instructions.

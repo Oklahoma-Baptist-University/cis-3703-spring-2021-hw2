@@ -1,4 +1,4 @@
-# CIS 3703 Spring 2021 Homework #1
+# CIS 3703 Spring 2021 Homework #2
 See the notebook named CIS-3703-Spring-2021-Homework-2 for instructions.
 
 Grading rubric
